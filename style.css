@@ -36,3 +36,12 @@ header nav{
     color: black;
 
 }
+
+.menu-icon{
+    background-image: url("https://static.thenounproject.com/png/756729-200.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+}
